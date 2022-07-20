@@ -1,9 +1,9 @@
 ### 林锅的博客
 
-呵呵小白一个，页面多亏了github的pages功能，也是刚刚接触markdown写东西，so~有点不忍直视。 
+呵呵小白一个，页面能成功展示多亏了[Github](https://github.com)有一个pages功能，也刚刚接触markdown这个工具，so~有点不忍直视，这里希望能分享一些有用的知识。 
 
 
-### 好站推荐:itellyou
+### 好东西要分享:itellyou
 
 平时找老版本的windows真是费劲的不得了，偶然一次发现了新大陆推荐给大家，[MSDN,我告诉你](https://msdn.itellyou.cn/) ，巴适得很~~
 
