@@ -1,6 +1,6 @@
 ### 林锅的博客
 
-呵呵小白一个，刚刚接触github，也是刚刚接触markdown写东西，so~有点不忍直视。 
+呵呵小白一个，页面多亏了github的pages功能，也是刚刚接触markdown写东西，so~有点不忍直视。 
 
 
 ### 好站推荐:itellyou
