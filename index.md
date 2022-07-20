@@ -1,12 +1,10 @@
-### 运维人
+### 林锅的博客
 
-You can use the [editor on GitHub](https://github.com/lcrs-git/lcr.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是在github使用page做的一个站，也是刚刚接触markdown，so~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### itellyou
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+平时找老版本的windows真是费劲的不得了，偶然一次发现一个新大陆推荐给大家，[MSDN,我告诉你](https://msdn.itellyou.cn/) ，巴适得很~~
 
 ```markdown
 Syntax highlighted code block
