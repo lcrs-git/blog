@@ -1,6 +1,6 @@
 ### 林锅的博客
 
-呵呵小白一个，页面能成功展示多亏了[Github](https://github.com)有一个pages功能，也刚刚接触markdown这个工具，so~有点不忍直视，这里希望能分享一些有用的知识。 
+呵呵小白一个，页面能成功展示多亏了[Github](https://github.com)有一个pages功能，同时得益于[Cloudflare](https://www.cloudflare.com/zh-cn/)的免费cdn加速。刚刚接触markdown这个工具，so~写的东西样式什么的看起来有点不忍直视，希望能分享一些有用的知识。 
 
 
 ### 好东西要分享:itellyou
