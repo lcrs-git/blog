@@ -1,10 +1,10 @@
 ### 林锅的博客
 
-这是在github使用page做的一个站，也是刚刚接触markdown，so~
+呵呵小白一个，刚刚接触github，也是刚刚接触markdown写东西，so~有点不忍直视。
 
-### itellyou
+### 好站推荐:itellyou
 
-平时找老版本的windows真是费劲的不得了，偶然一次发现一个新大陆推荐给大家，[MSDN,我告诉你](https://msdn.itellyou.cn/) ，巴适得很~~
+平时找老版本的windows真是费劲的不得了，偶然一次发现了新大陆推荐给大家，[MSDN,我告诉你](https://msdn.itellyou.cn/) ，巴适得很~~
 
 ```markdown
 Syntax highlighted code block
