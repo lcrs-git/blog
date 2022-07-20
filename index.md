@@ -1,6 +1,6 @@
 ### 林锅的博客
 
-呵呵小白一个，刚刚接触github，也是刚刚接触markdown写东西，so~有点不忍直视。
+呵呵小白一个，刚刚接触github，也是刚刚接触markdown写东西，so~有点不忍直视。[image](https://cdn.staticaly.com/gh/lcrs-git/img@master/20220720/OIP-C-(2).34acve64eco0.jpg）
 
 ### 好站推荐:itellyou
 
