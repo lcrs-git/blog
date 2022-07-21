@@ -1,4 +1,4 @@
-### 林锅的博客
+### Lin's Note
 
   感谢[Github](https://github.com)，让我从各种云主机中解脱出来，分享一下运维经验，记录一些折腾的案例，足矣。同时也感谢[Cloudflare](https://www.cloudflare.com/zh-cn/)让我白嫖的免费cdn加速。然后就是刚刚接触markdown这个工具，so~关注分享。 
 
@@ -9,7 +9,7 @@
 
 ### 使用3cx构建企业内部电话
 
-  3CX是一款基于X64的WINDOWS和LINUX-Debian的软件。它可以部署在主流的的电脑服务器，VMWARE虚拟机及云计算平台上。[详细了解。。。](3cx.md)
+  3CX是一款基于X64的WINDOWS和LINUX-Debian的软件。它可以部署在主流的的电脑服务器，VMWARE虚拟机及云计算平台上。[详细了解。。。](/3cx/3cx.md)
   
   
 ### Markdown
