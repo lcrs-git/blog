@@ -9,7 +9,7 @@
 
 ### 使用3cx构建企业内部通话系统
 
-  
+  3CX是一款基于X64的WINDOWS和LINUX-Debian的软件。它可以部署在主流的的电脑服务器，VMWARE虚拟机及云计算平台上。[详细了解。。。](3cx.md)
   
   
 ### Markdown
