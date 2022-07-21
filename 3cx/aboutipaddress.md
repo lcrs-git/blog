@@ -1,4 +1,5 @@
 ![IP-ADDRESS-1](https://git.poker/lcrs-git/img/blob/master/20220721/IP-ADDRESS-1.1ur86jykw0rk.jpg?raw=true)
+
 3CX系统IP地址的选择非常重要。3CX在设计开始，就把IP地址内外网的设计规划应用到了3CX的系统机制里面。这是其它IP PBX没有注意到的。这一机制的核心就是针对NAT穿越。NAT的表现就为没有声音 和单通。因此确保3CX和IP话机的IP地址正确规划。对于处理语音问题显得尤为重要。 如果IP话机内网地址不在以上范围。
 
 需要注意的 3CX和IP话机的内网一定要处在如下网段:
