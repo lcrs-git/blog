@@ -1,6 +1,6 @@
 ### 林锅的博客
 
-呵呵网页小白一个，页面能显示多亏了[Github](https://github.com)提供的pages功能，让我从各种云主机中解脱出来，只是分享一下运维经验，记录一些折腾的案例，这里足够了吧。同时也感谢[Cloudflare](https://www.cloudflare.com/zh-cn/)让我白嫖的免费cdn加速。然后就是刚刚接触markdown这个工具，so~写的东西看起来有点小儿科，大家多包涵，就希望能分享一些有用的知识吧。 
+我是网站小白，页面能显示多亏了[Github](https://github.com)提供的pages功能，让我从各种云主机中解脱出来，只是分享一下运维经验，记录一些折腾的案例，这里足够了吧。同时也感谢[Cloudflare](https://www.cloudflare.com/zh-cn/)让我白嫖的免费cdn加速。然后就是刚刚接触markdown这个工具，so~写的东西看起来有点小儿科，大家多包涵，就希望能分享一些有用的知识吧。 
 
 
 ### 分享一个站点：MSDN,itellyou
