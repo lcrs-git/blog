@@ -1,5 +1,6 @@
-![3cx](https://cdn.staticaly.com/gh/lcrs-git/img@master/20220721/3cx.10x6jrqsaaa8.jpg)
-3CX是一个可以简单上手的系统。但是要想把它玩得转，的确要花上不少的时间。
+![3cx](https://git.poker/lcrs-git/img/blob/master/20220721/3cx.10x6jrqsaaa8.jpg?raw=true)
+
+3CX是一个可以简单上手的系统。但是要想把它玩转，的确要花上不少的时间。
 
 一、安装3CX系统前的准备工作
 
