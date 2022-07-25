@@ -18,9 +18,7 @@
   
   根据目前我的使用情况来看，很稳，上传和下载都能跑满，可以在线看我群晖里的视频，YYDS.
   
-  [frp安装程序](https://github.com/fatedier/frp) 
-  
-  [frp文档](https://gofrp.org/)
+  [frp安装程序](https://github.com/fatedier/frp)   [frp文档](https://gofrp.org/)
   
 
 
