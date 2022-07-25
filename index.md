@@ -1,4 +1,4 @@
-## [一个分享站](index.md)
+## 一个分享站点
 
   感谢[Github](https://github.com)，让我从各种云主机中解脱出来，分享一下记录一点东西，够用。非常感谢[Cloudflare](https://www.cloudflare.com/zh-cn/)让我白嫖的免费cdn加速。
 
@@ -7,36 +7,26 @@
 
   平时找老版本的windows真是费劲的不得了，偶然一次发现了这个新大陆，必须推荐给大家，巴适得很~~ [MSDN,itellyou](https://msdn.itellyou.cn)
 
-### 用3cx免费搭建企业内部电话
+### 用3cx搭建企业内部电话
 
-  [3CX](3cx.com)是我深度使用的一款产品，对于我而言，就是免费（不计算作为服务器以及SBC的旧电脑、虚拟机）。我在自己这里用虚拟机折腾了一台[SBC](https://zhuanlan.zhihu.com/p/371392425),SBC下注册了35个分机，在一家市级公司部署了[PBX](https://zhuanlan.zhihu.com/p/373743494)服务器，地市的分机和服务器注册。/手动捂脸！由于网络结构和条件的原因服务器没放在省一级，复杂着呢，就不过多表述了，感兴趣的话可以@我。
+  [3CX](https://www.3cx.com)是我在用的一款产品，对于我而言，4并发免费，免费就是王道（不考虑服务器以及网络成本）。我用虚拟机跑[SBC](https://zhuanlan.zhihu.com/p/371392425),注册了局域网内的35个分机，在一市公司部署了3CX的[PBX](https://zhuanlan.zhihu.com/p/373743494)服务器，供其他地市的话机和SBC注册。/手动捂脸！由于网络结构和条件限制服务器放在地市，具体情况还有一点点复杂，就不过多表述了，感兴趣的话可以找我。
   
   
-### Markdown
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lcrs-git/lcr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+### 联系我
+
+[1442004711#qq.com](mailto:1442004711@qq.com)
