@@ -1,15 +1,15 @@
-## 一个分享站
+## [一个分享站](index.md)
 
   感谢[Github](https://github.com)，让我从各种云主机中解脱出来，分享一下记录一点东西，够用。非常感谢[Cloudflare](https://www.cloudflare.com/zh-cn/)让我白嫖的免费cdn加速。
 
 
-### 分享一个站点：MSDN,itellyou
+### MSDN,itellyou
 
   平时找老版本的windows真是费劲的不得了，偶然一次发现了这个新大陆，必须推荐给大家，巴适得很~~ [MSDN,itellyou](https://msdn.itellyou.cn)
 
-### 使用3cx构建企业内部电话
+### 用3cx免费搭建企业内部电话
 
-  3CX是一款基于X64的WINDOWS和LINUX-Debian的软件。它可以部署在主流的的电脑服务器，VMWARE虚拟机及云计算平台上。[详细了解。。。](/3cx/3cx.md)
+  [3CX](3cx.com)是我深度使用的一款产品，对于我而言，就是免费（不计算作为服务器以及SBC的旧电脑、虚拟机）。我的架构是这样的，在省公司部署了一台SBC,SBC下注册了24个分机。在一家市级公司部署了PBX服务器，地市的分机和服务器注册。/手动捂脸！为什么服务器不放在省一级，直接让本地分机和市级公司分机都注册上来呢？复杂着呢，就不过多表述了，感兴趣的话可以@我。
   
   
 ### Markdown
