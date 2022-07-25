@@ -1,4 +1,4 @@
-## L S
+## 一个分享站
 
   感谢[Github](https://github.com)，让我从各种云主机中解脱出来，分享一下记录一点东西，够用。非常感谢[Cloudflare](https://www.cloudflare.com/zh-cn/)让我白嫖的免费cdn加速。
 
