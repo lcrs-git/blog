@@ -18,7 +18,8 @@
   
   根据目前我的使用情况来看，很稳，上传和下载都能跑满，可以在线看我群晖里的视频，YYDS.
   
-  安装程序在这里：[frp安装程序](https://github.com/fatedier/frp) ，[frp文档](https://gofrp.org/)
+  [frp安装程序](https://github.com/fatedier/frp) 
+  [frp文档](https://gofrp.org/)
   
 
 
@@ -34,6 +35,6 @@
 
 
 
-### 联系我
 
-[1442004711#qq.com](mailto:1442004711@qq.com)
+
+### [联系我]（mailto:1442004711@qq.com）
